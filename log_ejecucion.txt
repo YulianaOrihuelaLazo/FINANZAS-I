@@ -1,0 +1,90 @@
+==============================================================================
+Corrida: 2026-09-27 00:18:15 | Código de matrícula: 2024200514G
+2026-09-27 00:18:15 | SCCO           | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:17 | BAP            | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:19 | CPACASC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:20 | FERREYC1.LM    | EXITO | 2000 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:22 | UNACEMC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:24 | ALICORC1.LM    | EXITO | 2001 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:25 | BACKUSI1.LM    | EXITO | 2003 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:27 | CREDITC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:28 | LUSURC1.LM     | EXITO | 2005 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:30 | BBVAC1.LM      | EXITO | 2000 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:32 | EPU            | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:18:33 | ^TNX           | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+Guardado: datos_crudos_2024200514G.csv | 24059 filas totales | 12/12 series OK (10 emisores + 2 auxiliares)
+==============================================================================
+Corrida (limpieza): 2026-09-27 00:18:43 | Código de matrícula: 2024200514G
+Dividendos no interpretables: 0
+Filas sin Retorno_EPU tras merge: 10
+Filas sin Rf tras merge: 0
+Resultado: EXITO | panel: 20037 filas | beta calculado para 10/10 emisores
+==============================================================================
+Corrida (análisis): 2026-09-27 00:19:17 | Código de matrícula: 2024200514G
+ERP Perú: 0.063 | Fuente: Damodaran, A. (2026). Country Default Spreads and Risk Premiums. https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ctryprem.html (Peru, calificacion Baa1, ERP total = 6.30%, pagina actualizada 05-01-2026, consultada 24-09-2026)
+Filas sin beta: 0
+Filas con Ke invalida (<=0): 0
+Resultado: EXITO | tabla: 80 filas | brecha promedio (completa): -0.2770 | p-valor t (completa): 0.032506 | brecha promedio (robustez): -0.0970 | p-valor t (robustez): 0.199519
+==============================================================================
+Corrida (análisis): 2026-09-27 00:23:38 | Código de matrícula: 2024200514G
+ERP Perú: 0.063 | Fuente: Damodaran, A. (2026). Country Default Spreads and Risk Premiums. https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/ctryprem.html (Peru, calificacion Baa1, ERP total = 6.30%, pagina actualizada 05-01-2026, consultada 24-09-2026)
+Filas sin beta: 0
+Filas con Ke invalida (<=0): 0
+Resultado: EXITO | tabla: 80 filas | brecha promedio (completa): -0.2770 | p-valor t (completa): 0.032506 | brecha promedio (robustez): -0.0970 | p-valor t (robustez): 0.199519
+==============================================================================
+Corrida: 2026-09-27 00:23:43 | Código de matrícula: 2024200514G
+2026-09-27 00:23:43 | SCCO           | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:45 | BAP            | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:47 | CPACASC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:48 | FERREYC1.LM    | EXITO | 2000 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:50 | UNACEMC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:51 | ALICORC1.LM    | EXITO | 2001 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:53 | BACKUSI1.LM    | EXITO | 2003 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:54 | CREDITC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:56 | LUSURC1.LM     | EXITO | 2005 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:57 | BBVAC1.LM      | EXITO | 2000 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:23:59 | EPU            | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:00 | ^TNX           | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+Guardado: datos_crudos_2024200514G.csv | 24059 filas totales | 12/12 series OK (10 emisores + 2 auxiliares)
+==============================================================================
+Corrida (limpieza): 2026-09-27 00:24:02 | Código de matrícula: 2024200514G
+Dividendos no interpretables: 0
+Filas sin Retorno_EPU tras merge: 10
+Filas sin Rf tras merge: 0
+Resultado: EXITO | panel: 20037 filas | beta calculado para 10/10 emisores
+==============================================================================
+Corrida (limpieza): 2026-09-27 00:24:26 | Código de matrícula: 2024200514G
+Dividendos no interpretables: 0
+Filas sin Retorno_EPU tras merge: 10
+Filas sin Rf tras merge: 0
+Resultado: EXITO | panel: 20037 filas | beta calculado para 10/10 emisores
+==============================================================================
+Corrida: 2026-09-27 00:24:30 | Código de matrícula: 2024200514G
+2026-09-27 00:24:30 | SCCO           | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:31 | BAP            | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:33 | CPACASC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:34 | FERREYC1.LM    | EXITO | 2000 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:36 | UNACEMC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:37 | ALICORC1.LM    | EXITO | 2001 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:39 | BACKUSI1.LM    | EXITO | 2003 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:40 | CREDITC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:42 | LUSURC1.LM     | EXITO | 2005 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:44 | BBVAC1.LM      | EXITO | 2000 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:45 | EPU            | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 00:24:47 | ^TNX           | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+Guardado: datos_crudos_2024200514G.csv | 24059 filas totales | 12/12 series OK (10 emisores + 2 auxiliares)
+==============================================================================
+Corrida: 2026-09-27 01:56:18 | Código de matrícula: 2024200514G
+2026-09-27 01:56:18 | SCCO           | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:20 | BAP            | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:22 | CPACASC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:23 | FERREYC1.LM    | EXITO | 2000 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:25 | UNACEMC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:26 | ALICORC1.LM    | EXITO | 2001 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:28 | BACKUSI1.LM    | EXITO | 2003 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:29 | CREDITC1.LM    | EXITO | 2002 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:31 | LUSURC1.LM     | EXITO | 2005 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:32 | BBVAC1.LM      | EXITO | 2000 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:34 | EPU            | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+2026-09-27 01:56:35 | ^TNX           | EXITO | 2011 filas | 2018-01-01 -> 2025-12-31
+Guardado: datos_crudos_2024200514G.csv | 24059 filas totales | 12/12 series OK (10 emisores + 2 auxiliares)
